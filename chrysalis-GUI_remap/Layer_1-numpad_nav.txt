@@ -1,0 +1,471 @@
+{
+  "keymap": [
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 24576,
+      "label": "#0",
+      "extraLabel": "Macro"
+    },
+    {
+      "keyCode": 41,
+      "label": "Esc"
+    },
+    {
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 86,
+      "label": "-",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    },
+    {
+      "keyCode": 75,
+      "label": "PgUp",
+      "verbose": "Page Up"
+    },
+    {
+      "keyCode": 82,
+      "label": "Up"
+    },
+    {
+      "keyCode": 78,
+      "label": "PgDn",
+      "verbose": "Page Down"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    },
+    {
+      "keyCode": 43,
+      "label": "Tab"
+    },
+    {
+      "keyCode": 95,
+      "label": "7",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 96,
+      "label": "8",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 97,
+      "label": "9",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 74,
+      "label": "Home"
+    },
+    {
+      "keyCode": 80,
+      "label": "Left"
+    },
+    {
+      "keyCode": 81,
+      "label": "Down"
+    },
+    {
+      "keyCode": 79,
+      "label": "Right"
+    },
+    {
+      "keyCode": 77,
+      "label": "End"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 42,
+      "label": "BSpc",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 92,
+      "label": "4",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 93,
+      "label": "5",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 94,
+      "label": "6",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 76,
+      "label": "Del"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 76,
+      "label": "Del"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 55,
+      "label": "."
+    },
+    {
+      "keyCode": 89,
+      "label": "1",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 90,
+      "label": "2",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 91,
+      "label": "3",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 56,
+      "label": "/"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    }
+  ],
+  "colormap": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    4,
+    1,
+    15,
+    15,
+    0,
+    2,
+    15,
+    15,
+    0,
+    0,
+    15,
+    15,
+    0,
+    2,
+    15,
+    15,
+    15,
+    1,
+    15,
+    15,
+    15,
+    15,
+    15,
+    3,
+    15,
+    15,
+    3,
+    15,
+    15,
+    15,
+    15,
+    5,
+    15,
+    4,
+    15,
+    2,
+    3,
+    4,
+    3,
+    2,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    2,
+    15,
+    5,
+    5,
+    5,
+    2,
+    3,
+    2,
+    2,
+    15,
+    4,
+    4,
+    4
+  ],
+  "palette": [
+    {
+      "r": 248,
+      "g": 231,
+      "b": 28,
+      "rgb": "rgb(248, 231, 28)"
+    },
+    {
+      "r": 144,
+      "g": 19,
+      "b": 254,
+      "rgb": "rgb(144, 19, 254)"
+    },
+    {
+      "r": 245,
+      "g": 166,
+      "b": 35,
+      "rgb": "rgb(245, 166, 35)"
+    },
+    {
+      "r": 208,
+      "g": 2,
+      "b": 27,
+      "rgb": "rgb(208, 2, 27)"
+    },
+    {
+      "r": 65,
+      "g": 117,
+      "b": 5,
+      "rgb": "rgb(65, 117, 5)"
+    },
+    {
+      "r": 80,
+      "g": 227,
+      "b": 194,
+      "rgb": "rgb(80, 227, 194)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
